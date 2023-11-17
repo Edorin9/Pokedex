@@ -59,8 +59,8 @@ fun PokedexTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = typography,
-        shapes = shapes,
+        typography = Typography,
+        shapes = Shapes,
         content = content
     )
 }
